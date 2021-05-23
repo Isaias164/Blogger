@@ -1,0 +1,2 @@
+def calculate(request):
+    pass
